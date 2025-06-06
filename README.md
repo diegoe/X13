@@ -1,6 +1,6 @@
-# Wayland
+# X12
 
-Wayland is a project to define a protocol for a compositor to talk to
+X12 is a project to define a protocol for a compositor to talk to
 its clients as well as a library implementation of the protocol.  The
 compositor can be a standalone display server running on Linux kernel
 modesetting and evdev input devices, an X application, or a wayland
